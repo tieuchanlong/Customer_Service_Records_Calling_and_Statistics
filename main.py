@@ -15,7 +15,7 @@ served = []
 left = []
 
 
-### --- CODE STARTS HERE --- ###
+### --- CODE STARTS HERE --- ##
 while True:
     menu()
     option = chooseOptions()
