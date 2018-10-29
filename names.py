@@ -1,5 +1,3 @@
-# Queue for the customer service by providing us your name
-
 def takeNames(names):
     play = True
     while play:
