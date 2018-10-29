@@ -17,7 +17,6 @@ left = []
 
 ### --- CODE STARTS HERE --- ##
 while True:
-    menu()
     option = chooseOptions()
     if (option == 1):
         takeNames(names)
@@ -35,9 +34,8 @@ while True:
         print_list_left(left)
         
     again = input("Do you want to ask anything again? ")
-    if (again == "y" or again "Y" or again == ""):
+    if (again == "y" or again == "Y" or again == ""):
         pass
     else:
-        break
-        
+        break   
         

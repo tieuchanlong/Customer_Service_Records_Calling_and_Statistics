@@ -1,4 +1,4 @@
-names = []
+
 
 def takeNames(names):
     play = True
