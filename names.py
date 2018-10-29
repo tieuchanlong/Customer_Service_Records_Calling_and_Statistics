@@ -1,5 +1,3 @@
-
-
 def takeNames(names):
     play = True
     while play:
@@ -11,5 +9,3 @@ def takeNames(names):
         else:
             play = False
 
-takeNames(names)
-print(names)
