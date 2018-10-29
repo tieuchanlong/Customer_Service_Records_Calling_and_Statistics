@@ -1,4 +1,4 @@
-names = []
+# Queue for the customer service by providing us your name
 
 def takeNames(names):
     play = True
@@ -11,5 +11,3 @@ def takeNames(names):
         else:
             play = False
 
-takeNames(names)
-print(names)

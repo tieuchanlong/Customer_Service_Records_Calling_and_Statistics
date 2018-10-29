@@ -17,12 +17,14 @@ def chooseOptions():
     1.) Queue for the customer service by providing us your name
     2.) Ask for the next person's name
     3.) Ask for a permit to leave
-    4.) Ask for the number of customer that have been served
-    5.) Ask for the list of customer that have been served
-    6.) Ask for the list of custoner that haven't been served
+    4.) Ask for the number of customers that have been served
+    5.) Ask for the number of customers that have left
+    6.) Ask for the list of customer that have been served
+    7.) Ask for the list of custoner that haven't been served
     """)
     options = int(input("Your choice? : "))
     return options
+
 
 
 
